@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T12:33:48.297Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.5.2" etag="-RKnsYys7aBX9sC60mMw" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T21:44:58.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="vJVZ1FSnX5ty5k46BVRX" version="21.5.2" type="github">
   <diagram name="Page-1" id="uZXzhW1txjPgnwUSdVdT">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9lWvFOYwPeDm9Kd6Usdu-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="135" width="120" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="9lWvFOYwPeDm9Kd6Usdu-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.979;exitY=0.493;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="9lWvFOYwPeDm9Kd6Usdu-6" target="9lWvFOYwPeDm9Kd6Usdu-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="218" y="267.95" as="sourcePoint" />
+            <mxPoint x="357.03999999999996" y="266.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9lWvFOYwPeDm9Kd6Usdu-5" value="ROS Websocket" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9lWvFOYwPeDm9Kd6Usdu-6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;rounded=1;fontFamily=Helvetica;fontSize=12;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="245" width="48" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9lWvFOYwPeDm9Kd6Usdu-7" value="IP:PORT1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9lWvFOYwPeDm9Kd6Usdu-9" value="IP:PORT2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9lWvFOYwPeDm9Kd6Usdu-10" value="Webserver" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9lWvFOYwPeDm9Kd6Usdu-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9lWvFOYwPeDm9Kd6Usdu-10" target="9lWvFOYwPeDm9Kd6Usdu-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
